@@ -98,5 +98,5 @@ else:
 
 '''
 clear
-& "D:/Program Files/Python39/python.exe" d:/Solutions/PythonTraining/if_statement/app.py
+& "D:/Program Files/Python39/python.exe" d:/Solutions/PythonTraining/04-if_statement/app.py
 '''

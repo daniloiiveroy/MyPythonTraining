@@ -34,5 +34,5 @@ print(int("100") + int("200")) #Casting
 
 '''
 clear
-& "D:/Program Files/Python39/python.exe" d:/Solutions/PythonTraining/numeric/app.py
+& "D:/Program Files/Python39/python.exe" d:/Solutions/PythonTraining/01-numeric/app.py
 '''

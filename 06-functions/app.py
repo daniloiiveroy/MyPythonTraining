@@ -59,5 +59,5 @@ def days_in_month(year, month):
 print(days_in_month(2016,2))
 '''
 clear
-& "D:/Program Files/Python39/python.exe" d:/Solutions/PythonTraining/functions/app.py
+& "D:/Program Files/Python39/python.exe" d:/Solutions/PythonTraining/06-functions/app.py
 '''

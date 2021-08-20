@@ -47,5 +47,5 @@ print(help(str.lower)) #help functions for string
 
 '''
 clear
-& "D:/Program Files/Python39/python.exe" d:/Solutions/PythonTraining/string/app.py
+& "D:/Program Files/Python39/python.exe" d:/Solutions/PythonTraining/00-string/app.py
 '''

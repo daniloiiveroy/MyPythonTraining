@@ -70,5 +70,5 @@ while True:
 
 '''
 clear
-& "D:/Program Files/Python39/python.exe" d:/Solutions/PythonTraining/for-while_loop/app.py
+& "D:/Program Files/Python39/python.exe" d:/Solutions/PythonTraining/05-for-while_loop/app.py
 '''

@@ -47,5 +47,5 @@ for key, value in student.items():
 
 '''
 clear
-& "D:/Program Files/Python39/python.exe" d:/Solutions/PythonTraining/key-value/app.py
+& "D:/Program Files/Python39/python.exe" d:/Solutions/PythonTraining/03-key-value/app.py
 '''

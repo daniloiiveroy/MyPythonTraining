@@ -143,5 +143,5 @@ empty_set = set()
 
 '''
 clear
-& "D:/Program Files/Python39/python.exe" d:/Solutions/PythonTraining/lists_tuples_sets/app.py
+& "D:/Program Files/Python39/python.exe" d:/Solutions/PythonTraining/02-lists_tuples_sets/app.py
 '''
