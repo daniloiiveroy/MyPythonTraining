@@ -61,12 +61,20 @@ while x <= 10:
 print("### End ###")
 
 #while loop with infinite loop with CTRL C
+'''
 x = 1
 print("### Start ###")
 while True:
     print(x)
     x += 1
+'''
 
+numbers = [5,2,5,2,2]
+for x in numbers:
+    output = ""
+    for count in range(x):
+        output += "x"
+    print(output)
 
 '''
 clear

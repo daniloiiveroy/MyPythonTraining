@@ -60,13 +60,21 @@ print("stop - to stop car")
 print("quit - to exit")
 
 car_status = ""
-memory_status = ""
+started = False
 while True:
     car_status = input(">").lower()
     if car_status == "start":
-        print("Car started....Ready to go!")
+        if started:
+            print("Car already started!.")
+        else:
+            started = True
+            print("Car started....Ready to go!")
     elif car_status == "stop":
-        print("Car stopped.")
+        if not started:
+            print("Car already stopped!")
+        else :
+            started = False
+            print("Car stopped.")
     elif car_status == "help":
         print(
             """
@@ -82,6 +90,6 @@ quit - to exit"""
     memory_status = car_status
 """
 clear
-& "D:/Program Files/Python39/python.exe" d:/Solutions/PythonTraining/09-input/app.py
+& "D:/Program Files/Python39/python.exe" d:/Solutions/PythonTraining/10-input/app.py
 & "C:/Python39/python.exe" E:/Solutions/PythonTraining/09-input/app.py
 """

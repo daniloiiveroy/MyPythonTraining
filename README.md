@@ -11,4 +11,7 @@ Modules
 7. Import Modules
 8. OS Module
 9. Datetime Module
-10. Input function
+10. Input Function
+11. Try Catch Function
+12. Class
+13. Module
