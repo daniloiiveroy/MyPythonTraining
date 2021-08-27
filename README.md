@@ -10,3 +10,5 @@ Modules
 6. Functions
 7. Import Modules
 8. OS Module
+
+10. Input function
