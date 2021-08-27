@@ -11,3 +11,4 @@ Modules
 7. Import Modules
 8. OS Module
 9. Datetime Module
+10. Input function
